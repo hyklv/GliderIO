@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+   <NetworkLink>
+     <name>GV</name>
+     <open>1</open>
+     <Link>
+       <href>http://www.eol.ucar.edu/flight_data/GV/GE/real-time.kmz</href>
+       <refreshMode>onInterval</refreshMode>
+       <refreshInterval>60</refreshInterval>
+     </Link>
+   </NetworkLink>
+   <NetworkLink>
+     <name>C130</name>
+     <open>1</open>
+     <Link>
+       <href>http://www.eol.ucar.edu/flight_data/C130/GE/real-time.kmz</href>
+       <refreshMode>onInterval</refreshMode>
+       <refreshInterval>60</refreshInterval>
+     </Link>
+   </NetworkLink>
+ </Document>
+</kml>

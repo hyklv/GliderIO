@@ -1,0 +1,22 @@
+# Research on autonomous soaring.
+https://www.microsoft.com/en-us/research/blog/autonomous-soaring-ai-on-the-fly/
+
+# Draw a plane in SVG.
+https://www.tnoda.com/blog/2014-04-02/
+
+# Leaflet - mobile friendly maps.
+https://leafletjs.com/examples/wms/wms.html
+
+# Digitale startlijst
+http://www.soaring.hps-hq.com/
+
+# Nicest satellite map !!!
+https://openlayers.org/en/latest/examples/gpx.html
+
+# Calculate take off/landing
+https://github.com/glidernet/ogn-python/blob/master/app/collect/takeoff_landings.py
+
+# Google Earth
+https://earth.google.com/web/
+https://developers.google.com/earth-engine/playground
+
